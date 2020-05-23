@@ -30,7 +30,10 @@ As the script runs, it loops through all the stocks for one year for each run an
 - It applies conditional formatting by highlighting positive yearly change values in green and negative yearly change values in red.
 - It returns the stock with the greatest percent increase, greatest percent decrease, and greatest total volume
 
-Sample Output
+### Sample Output
 After the script has completed, go to the Excel workbook, and you should see the results of the script.
+(https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/moderate_solution.png)
 
-Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in the VBAStocks/screenshots folder of this repository.
+(https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/hard_solution.png)
+
+
