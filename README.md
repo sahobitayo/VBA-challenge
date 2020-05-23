@@ -32,8 +32,8 @@ As the script runs, it loops through all the stocks for one year for each run an
 
 ### Sample Output
 After the script has completed, go to the Excel workbook, and you should see the results of the script.
-![solution] (https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/moderate_solution.png)
+(https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/moderate_solution.png)
 
-![solution_hard] (https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/hard_solution.png)
+(https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/hard_solution.png)
 
 
